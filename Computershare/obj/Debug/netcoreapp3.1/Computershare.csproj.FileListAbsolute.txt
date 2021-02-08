@@ -1,0 +1,13 @@
+C:\Users\Duncan\Source\Computershare\bin\Debug\netcoreapp3.1\Computershare.exe
+C:\Users\Duncan\Source\Computershare\bin\Debug\netcoreapp3.1\Computershare.deps.json
+C:\Users\Duncan\Source\Computershare\bin\Debug\netcoreapp3.1\Computershare.runtimeconfig.json
+C:\Users\Duncan\Source\Computershare\bin\Debug\netcoreapp3.1\Computershare.runtimeconfig.dev.json
+C:\Users\Duncan\Source\Computershare\bin\Debug\netcoreapp3.1\Computershare.dll
+C:\Users\Duncan\Source\Computershare\bin\Debug\netcoreapp3.1\Computershare.pdb
+C:\Users\Duncan\Source\Computershare\obj\Debug\netcoreapp3.1\Computershare.csprojAssemblyReference.cache
+C:\Users\Duncan\Source\Computershare\obj\Debug\netcoreapp3.1\Computershare.AssemblyInfoInputs.cache
+C:\Users\Duncan\Source\Computershare\obj\Debug\netcoreapp3.1\Computershare.AssemblyInfo.cs
+C:\Users\Duncan\Source\Computershare\obj\Debug\netcoreapp3.1\Computershare.csproj.CoreCompileInputs.cache
+C:\Users\Duncan\Source\Computershare\obj\Debug\netcoreapp3.1\Computershare.dll
+C:\Users\Duncan\Source\Computershare\obj\Debug\netcoreapp3.1\Computershare.pdb
+C:\Users\Duncan\Source\Computershare\obj\Debug\netcoreapp3.1\Computershare.genruntimeconfig.cache
